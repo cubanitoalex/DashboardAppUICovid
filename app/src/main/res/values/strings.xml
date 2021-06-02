@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Covid19UI</string>
+    <string name="clean_disinfects">Limpiar para Desinfectar</string>
+    <string name="new_cases">Nuevos Casos</string>
+    <string name="_52">52</string>
+    <string name="people">Personas</string>
+    <string name="total_recovered">Total Recuperados</string>
+    <string name="_689">689</string>
+    <string name="confirmed_cases">Confirmados Casos</string>
+    <string name="_1_062">1,062</string>
+    <string name="total_death">Total Muertes</string>
+    <string name="_75">75</string>
+    <string name="preventions">Prevenciones</string>
+    <string name="wash_hands">Lavar las manos</string>
+    <string name="use_mask">Use Mascara</string>
+    <string name="_547">547</string>
+    <string name="from_health_center">Desde el centro de salud</string>
+    <string name="_6_43">6.43%</string>
+    <string name="from_last_week">Desde la semana pasada</string>
+    <string name="_9_43">9.43%</string>
+    <string name="recovery_rate">Índice de recuperación</string>
+    <string name="_5_9">5.9%</string>
+    <string name="global_map">Mapa global</string>
+</resources>
